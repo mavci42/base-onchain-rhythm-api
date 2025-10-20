@@ -17,5 +17,9 @@
     "@types/node": "24.8.1",
     "@types/react": "19.2.2",
     "typescript": "5.9.3"
-  }
+  },
+  "engines": {
+    "node": ">=20 <=22"
+  },
+  "packageManager": "npm@10"
 }
